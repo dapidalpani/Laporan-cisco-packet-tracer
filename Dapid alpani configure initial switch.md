@@ -1,0 +1,8 @@
+![Screenshot (179)](https://github.com/dapidalpani/Laporan-cisco-packet-tracer/assets/126247854/a9d4d64e-1179-4c2e-8ed5-75b59c08e8ab)
+![Screenshot (180)](https://github.com/dapidalpani/Laporan-cisco-packet-tracer/assets/126247854/5969ece9-4446-4a9e-8b8b-7ecf673b94c3)
+![Screenshot (181)](https://github.com/dapidalpani/Laporan-cisco-packet-tracer/assets/126247854/4d202908-eb0e-46ee-8d2d-2e7a4f085b49)
+![Screenshot (182)](https://github.com/dapidalpani/Laporan-cisco-packet-tracer/assets/126247854/1b28f484-e97e-48f9-8920-bc32da27595b)
+![Screenshot (183)](https://github.com/dapidalpani/Laporan-cisco-packet-tracer/assets/126247854/066274d1-4c09-4c53-b76f-495749439a4f)
+![Screenshot (184)](https://github.com/dapidalpani/Laporan-cisco-packet-tracer/assets/126247854/46f5b0e2-c8ff-4f8a-a66b-e4b1e28c5ae8)
+![Screenshot (185)](https://github.com/dapidalpani/Laporan-cisco-packet-tracer/assets/126247854/0068716a-42e4-41fb-91a2-70faf3e29d81)
+![Screenshot (186)](https://github.com/dapidalpani/Laporan-cisco-packet-tracer/assets/126247854/5d02b6b2-0a1b-4c79-98a5-466f56447319)
